@@ -1,0 +1,17 @@
+{
+  "name": "transaction",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Maksim Chetverikov <ma.chetverikov@gmail.com>",
+  "license": "MIT"
+}
